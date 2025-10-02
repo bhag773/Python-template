@@ -1,16 +1,31 @@
-#(name of the program)
-#(your name )
-#(date)
-#OCR computer science
+# [program name]
+# Gurbhag Sandh
+# [date]
+# AS Computer Science
 
-def three():
-    pass
+# [comment]
 def two():
-    pass
-def one():
-    pass
+    try:
+        pass   
+    except Exception as e:
+        print("Error occurred:", e )
 
+# [comment]
+def one():
+    try:
+        pass   
+    except Exception as e:
+        print("Error occurred:", e )
+
+# [comment]
 def main():
-    pass
+    try:
+        pass   
+    except Exception as e:
+        print("Error occurred:", e )    
+
 if (__name__ == "__main__"):
     main()
+
+
+
