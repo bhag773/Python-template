@@ -1,23 +1,22 @@
 # [program name]
-# Gurbhag Sandh
+# Gurbhag Sandhu
 # [date]
 # AS Computer Science
 
-# [comment]
+
 def two():
     try:
         pass   
     except Exception as e:
         print("Error occurred:", e )
 
-# [comment]
+
 def one():
     try:
         pass   
     except Exception as e:
         print("Error occurred:", e )
 
-# [comment]
 def main():
     try:
         pass   
@@ -26,6 +25,7 @@ def main():
 
 if (__name__ == "__main__"):
     main()
+
 
 
 
